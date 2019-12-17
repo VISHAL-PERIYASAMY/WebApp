@@ -1,2 +1,2 @@
 # WebApp
-Simple Hello WebApp with JWT Tokens Using Gradle 
+Simple HelloWebApp with JWT Tokens and Gradle Using Jersey 
